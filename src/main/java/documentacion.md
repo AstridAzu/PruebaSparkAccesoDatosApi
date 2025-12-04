@@ -1,0 +1,1 @@
+cada carpeta tiene un archivo readme.md con las especificaciones de cada api
